@@ -65,46 +65,6 @@ Memory Game is a classic card matching game built with Python and PyQt5. The gam
 
 ---
 
-## 📂 File Structure
-```
-memory_game/
-├── 📁 backgrounds/      # Theme background images
-├── 📁 card_backs/       # Card back designs
-├── 📁 fonts/            # Custom fonts
-├── 🎵 victory.wav       # Victory sound
-├── 🎥 confetti.gif      # Celebration animation
-└── 💻 memory_game.py    # Main game file
-```
-
----
-
-## 🖥️ Screenshots
-*(Would show menu and gameplay screens here)*
-
----
-
-## 💡 Tips
-- 🧠 Start with Level 1 to learn the images
-- 🔢 Fewer cards = easier game
-- ⏳ Take your time - no timer pressure!
-
----
-
-## 🛠️ Troubleshooting
-If you get errors:
-1. Check all image/sound files are in correct folders
-2. Ensure PyQt5 is installed:
-   ```bash
-   pip install --upgrade PyQt5
-   ```
-
----
-
-## 👏 Credits
-- Developed with ❤️ using Python & PyQt5
-- Free icons from [Flaticon.com]
-- Sounds from [Zapsplat.com]
-
 ---
 
 Happy matching! � 🎴 ✨
